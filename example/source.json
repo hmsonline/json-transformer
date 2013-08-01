@@ -1,0 +1,15 @@
+{
+  "ORDER": {
+    "ORDER_ID": "ORDER_123",
+    "ORDER_LIST": [
+      {
+        "ORDER_ID": "ORDER_123",
+        "CREATED_TIME": "2006-04-12"
+      },
+      {
+        "ORDER_ID": "ORDER_123",
+        "CREATED_TIME": "2006-04-12"
+      }
+    ]
+  }
+}
