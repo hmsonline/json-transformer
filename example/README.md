@@ -1,4 +1,4 @@
-A json-to-json transform library
+Example
 ================
 
 ```
