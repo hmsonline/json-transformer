@@ -4,7 +4,7 @@
 	<name>JSON Transformer</name>
 	<groupId>com.hmsonline</groupId>
 	<artifactId>json-transformer</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<description>A json-2-json transformer library</description>
 	<url>https://github.com/hmsonline/json-transformer</url>
 
